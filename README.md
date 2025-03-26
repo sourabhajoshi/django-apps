@@ -9,6 +9,5 @@
 ## 🚀 Features
 ✅ Create, update, and delete tasks  
 ✅ Mark tasks as **complete/incomplete**  
-✅ Filter tasks by **completion status**  
 
 
