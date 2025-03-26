@@ -1,17 +1,14 @@
-To-Do List API (Basic CRUD)
-What you'll learn:
+# 1. To-Do List API (Basic CRUD)
 
-Setting up DRF
+## 📌 What and all done here
+- Setting up Django REST Framework (DRF)
+- CRUD operations (Create, Read, Update, Delete)
+- Serializers and ViewSets
+- Testing API endpoints with **Postman**
 
-CRUD operations (Create, Read, Update, Delete)
+## 🚀 Features
+✅ Create, update, and delete tasks  
+✅ Mark tasks as **complete/incomplete**  
+✅ Filter tasks by **completion status**  
 
-Serializers and ViewSets
 
-Testing with Postman
-
-Features:
-Create, update, delete tasks
-Mark tasks as complete/incomplete
-Filter tasks by completion status
-🔹 Models: Task (title, description, completed...)
-🔹 Endpoints: GET /tasks, POST /tasks, PUT /tasks/{id}, DELETE /tasks/{id}
