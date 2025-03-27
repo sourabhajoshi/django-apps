@@ -1,4 +1,4 @@
-# 1. To-Do List API (Basic CRUD)
+# 1. To-Do List API (Basic CRUD App)
 
 ## 📌 What and all done here
 - Setting up Django REST Framework (DRF)
